@@ -1,0 +1,8 @@
+{
+  "name": "CUTCRAFT",
+  "description": "CUTCRAFT — Where Creativity Meets Opportunity. A creative freelancer marketplace built with a pure C \u0026 SQLite backend and Liquid Glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
